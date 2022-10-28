@@ -1,4 +1,4 @@
-
+//4) WAP to show usage of Callable and demonstrate how it is different from Runnable
 package Multi_Threading;
 public class MethodSynchronized {
     private Integer integer = 10;
